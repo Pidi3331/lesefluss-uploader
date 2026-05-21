@@ -4,7 +4,7 @@ Simple Windows GUI to upload `.txt` books and tweak reading settings on a
 [Lesefluss](https://github.com/sch-28/lesefluss) ESP32 RSVP reader — drag,
 drop, done. No command line needed.
 
-![screenshot placeholder]()
+![screenshot placeholder](https://github.com/Pidi3331/lesefluss-uploader/blob/main/Screenshot%20uploader.png)
 
 ## What it does
 
